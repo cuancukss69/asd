@@ -1,8 +1,1 @@
-pandas
-numpy
-scikit-learn
-joblib
-Sastrawi
-tensorflow-cpu==2.15.1
-flask
-streamlit
+python-3.11
