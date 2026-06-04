@@ -3,6 +3,6 @@ numpy
 scikit-learn
 joblib
 Sastrawi
-tensorflow-cpu
+tensorflow-cpu==2.15.1
 flask
 streamlit
